@@ -17,7 +17,7 @@ jobs:
       uses: azure/CLI@v1
       with:
         inlineScript: |
-            az storage blob upload-batch --account-name stpumptrack  --auth-mode key -d 'spots' -s .
+            az storage blob upload-batch --account-name stpumptrack  --auth-mode key -d 'spots' -s . --pattern *.json;*.mp4;*.jpg;
     - name: Purge CDN endpoint
       uses: azure/CLI@v1
       with:
