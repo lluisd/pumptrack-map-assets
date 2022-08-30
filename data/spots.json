@@ -1,0 +1,113 @@
+[
+  {
+    "id": "escala",
+    "coordinates": [442.12132197711474, 3.120407781257502],
+    "name": "Pumptrack L'Escala",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "green",
+    "length": 180,
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/Pr64dGiVNUSK8EDV8",
+    "province": "girona"
+  },
+  {
+    "id": "frodenofund",
+    "coordinates": [41.96974631776626, 2.7818615483379463],
+    "name": "Pumptrack Frodenofund",
+    "brand": "velosolutions",
+    "image": "overview.jpg",
+    "color": "red",
+    "length": 227,
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/au6kSNYihiaHnKCe7",
+    "province": "girona"
+  },
+  {
+    "id": "corca",
+    "coordinates": [41.994193682736245, 3.0146931130264774],
+    "name": "Pumptrack Corçàiluminacion",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "blue",
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/4anBd5F4iCGejhgv6",
+    "province": "girona"
+  },
+  {
+    "id": "vilamalla",
+    "coordinates": [42.22801243820019, 2.9633893980751753],
+    "name": "Pumptrack Vilamalla",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "blue",
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/aWECw9wrDXRqgA2Y8",
+    "province": "girona"
+  },
+  {
+    "id": "cassa",
+    "coordinates": [41.88229069589113, 2.8772406357798976],
+    "name": "Pumptrack Cassà de la Selva",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "blue",
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/rztaF3ENhneXDKLc9",
+    "province": "girona"
+  },
+  {
+    "id": "palafolls",
+    "coordinates": [41.66566914078792, 2.7468414933423135],
+    "name": "Pumptrack Palafolls",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "pink",
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/5eWJ68Yrth6L8ENr5",
+    "province": "barcelona"
+  },
+  {
+    "id": "albons",
+    "coordinates": [42.10125209226644, 3.083916348183266],
+    "name": "Pumptrack Albons",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "green",
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/TufoX3GsRJrs239a6",
+    "province": "girona"
+  },
+  {
+    "id": "begur",
+    "coordinates": [41.95918867569161, 3.211325254896999],
+    "name": "Pumptrack Begur",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "blue",
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/JAFszjBjndmNbetg7",
+    "province": "girona"
+  },
+  {
+    "id": "empuriabrava",
+    "coordinates": [42.24827832219093, 3.120503239017752],
+    "name": "under construction",
+    "brand": "velosolutions",
+    "image": "overview.jpg",
+    "color": "red",
+    "status": "under construction",
+    "province": "girona"
+  },
+  {
+    "id": "santboi",
+    "coordinates": [41.33191701988174, 2.053920284386088],
+    "name": "Pumptrack Sant boi",
+    "brand": "pumptrackpark",
+    "image": "overview.jpg",
+    "color": "white",
+    "status": "open",
+    "gmapsLink": "https://goo.gl/maps/3MqNN6bAv59vocgNA",
+    "province": "barcelona"
+  }
+]
