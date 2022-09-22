@@ -21,7 +21,12 @@
     "status": "open",
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/au6kSNYihiaHnKCe7",
-    "province": "girona"
+    "province": "girona",
+    "video": {
+      "small": "frodenofund-1080.mp4",
+      "medium": "frodenofund-720.mp4",
+      "high": "frodenofund-1080.mp4"
+    }
   },
   {
     "id": "corca",
