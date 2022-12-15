@@ -1,0 +1,25 @@
+name: Azure cdn purge
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Purge CDN endpoint
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az cdn endpoint purge --content-paths  "/*" --profile-name "cdn" --name "pumptrack" --resource-group "pumptrack-assets"
+
+      # Azure logout
+      - name: logout
+        run: |
+          az logout
+        if: always()
