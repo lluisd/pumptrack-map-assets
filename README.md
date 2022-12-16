@@ -9,7 +9,9 @@ Assets used on [pumptrack-map](https://github.com/lluisd/pumptrack-map).
 but they can be download from this list of resource links:
 
 - 360Videos
-  - [Albons](https://stpumptrack.blob.core.windows.net/spots/360videos/albons-1080.mp4)
+  - [Albons](https://stpumptrack.blob.core.windows.net/spots/360videos/albons.mp4)
+  - [Cassà de la selva](https://stpumptrack.blob.core.windows.net/spots/360videos/cassa.mp4)
+  - [FrodenoFund (Salt)](https://stpumptrack.blob.core.windows.net/spots/360videos/frodenofund.mp4)
 - Images
   - [Albons](https://stpumptrack.blob.core.windows.net/spots/images/albons.jpg)
   - [Begur](https://stpumptrack.blob.core.windows.net/spots/images/begur.jpg)

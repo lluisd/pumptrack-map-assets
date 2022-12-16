@@ -10,11 +10,7 @@
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/Pr64dGiVNUSK8EDV8",
     "province": "girona",
-    "video": {
-      "small": "escala-480.mp4",
-      "medium": "escala-720.mp4",
-      "high": "escala-1080.mp4"
-    }
+    "video": "escala.mp4"
   },
   {
     "id": "frodenofund",
@@ -27,11 +23,7 @@
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/au6kSNYihiaHnKCe7",
     "province": "girona",
-    "video": {
-      "small": "frodenofund-480.mp4",
-      "medium": "frodenofund-720.mp4",
-      "high": "frodenofund-1080.mp4"
-    }
+    "video": "frodenofund.mp4"
   },
   {
     "id": "corca",
@@ -65,11 +57,7 @@
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/rztaF3ENhneXDKLc9",
     "province": "girona",
-    "video": {
-      "small": "cassa-480.mp4",
-      "medium": "cassa-720.mp4",
-      "high": "cassa-1080.mp4"
-    }
+    "video": "cassa.mp4"
   },
   {
     "id": "palafolls",
@@ -92,11 +80,7 @@
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/TufoX3GsRJrs239a6",
     "province": "girona",
-    "video": {
-      "small": "albons-1080.mp4",
-      "medium": "albons-1080.mp4",
-      "high": "albons-1080.mp4"
-    }
+    "video": "albons.mp4"
   },
   {
     "id": "begur",
