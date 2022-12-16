@@ -34,7 +34,8 @@
     "status": "open",
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/4anBd5F4iCGejhgv6",
-    "province": "girona"
+    "province": "girona",
+    "video": "corca.mp4"
   },
   {
     "id": "vilamalla",
@@ -91,7 +92,8 @@
     "status": "open",
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/JAFszjBjndmNbetg7",
-    "province": "girona"
+    "province": "girona",
+    "video": "begur.mp4"
   },
   {
     "id": "santboi",
