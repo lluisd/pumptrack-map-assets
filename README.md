@@ -13,7 +13,10 @@ but they can be download from this list of resource links:
   - [Begur](https://stpumptrack.blob.core.windows.net/spots/360videos/begur.mp4)
   - [Cassà de la selva](https://stpumptrack.blob.core.windows.net/spots/360videos/cassa.mp4)
   - [Corçà](https://stpumptrack.blob.core.windows.net/spots/360videos/corca.mp4)
+  - [L'Escala](https://stpumptrack.blob.core.windows.net/spots/images/escala.mp4)
   - [FrodenoFund (Salt)](https://stpumptrack.blob.core.windows.net/spots/360videos/frodenofund.mp4)
+  - [Palafolls](https://stpumptrack.blob.core.windows.net/spots/images/palafolls.mp4)
+  - [vilamalla](https://stpumptrack.blob.core.windows.net/spots/images/vilamalla.mp4)
 
 - Images
   - [Albons](https://stpumptrack.blob.core.windows.net/spots/images/albons.jpg)

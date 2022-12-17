@@ -46,7 +46,8 @@
     "status": "open",
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/aWECw9wrDXRqgA2Y8",
-    "province": "girona"
+    "province": "girona",
+    "video": "vilamalla.mp4"
   },
   {
     "id": "cassa",
@@ -69,7 +70,8 @@
     "status": "open",
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/5eWJ68Yrth6L8ENr5",
-    "province": "barcelona"
+    "province": "barcelona",
+    "video": "palafolls.mp4"
   },
   {
     "id": "albons",
