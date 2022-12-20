@@ -92,10 +92,21 @@
     "brand": "pumptrackpark",
     "color": "blue",
     "status": "open",
-    "hasOpeningHours": true,
+    "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/JAFszjBjndmNbetg7",
     "province": "girona",
     "video": "begur.mp4"
+  },
+  {
+    "id": "pals",
+    "coordinates": [41.97787315232517, 3.154031384511964],
+    "name": "Pumptrack Pals",
+    "brand": "pumptrackpark",
+    "color": "white",
+    "status": "open",
+    "hasOpeningHours": false,
+    "gmapsLink": "https://goo.gl/maps/VWZS7UjEaU8D96KD9",
+    "province": "girona"
   },
   {
     "id": "santboi",
