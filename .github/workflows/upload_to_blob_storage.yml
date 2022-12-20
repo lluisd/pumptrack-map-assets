@@ -31,8 +31,20 @@ jobs:
         inlineScript: |
            az cdn endpoint purge --content-paths  "/*" --profile-name "cdn" --name "pumptrack" --resource-group "pumptrack-assets"
            
-  # Azure logout
+    # Azure logout
     - name: logout
       run: |
             az logout
       if: always()
+
+    - name: Dispatch pumptrack-map worfklow
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.PAT_TOKEN }}
+        script: |
+          await github.rest.actions.createWorkflowDispatch({
+            owner: 'lluisd',
+            repo: 'pumptrack-map',
+            workflow_id: 'main_pumptrackmapapp.yml',
+            ref: 'main'
+          })
