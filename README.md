@@ -13,10 +13,15 @@ but they can be download from this list of resource links:
   - [Begur](https://stpumptrack.blob.core.windows.net/spots/360videos/begur.mp4)
   - [Cassà de la selva](https://stpumptrack.blob.core.windows.net/spots/360videos/cassa.mp4)
   - [Corçà](https://stpumptrack.blob.core.windows.net/spots/360videos/corca.mp4)
-  - [L'Escala](https://stpumptrack.blob.core.windows.net/spots/images/escala.mp4)
+  - [L'Escala](https://stpumptrack.blob.core.windows.net/spots/360videos/escala.mp4)
   - [FrodenoFund (Salt)](https://stpumptrack.blob.core.windows.net/spots/360videos/frodenofund.mp4)
-  - [Palafolls](https://stpumptrack.blob.core.windows.net/spots/images/palafolls.mp4)
-  - [vilamalla](https://stpumptrack.blob.core.windows.net/spots/images/vilamalla.mp4)
+  - [Palafolls](https://stpumptrack.blob.core.windows.net/spots/360videos/palafolls.mp4)
+  - [vilamalla](https://stpumptrack.blob.core.windows.net/spots/360videos/vilamalla.mp4)
+
+- 360images
+  - [Corçà](https://stpumptrack.blob.core.windows.net/spots/360images/albons.jpg)
+  - [FrodenoFund (Salt)](https://stpumptrack.blob.core.windows.net/spots/360images/begur.jpg)
+  - [Pals](https://stpumptrack.blob.core.windows.net/spots/360images/pals.jpg)
 
 - Images
   - [Albons](https://stpumptrack.blob.core.windows.net/spots/images/albons.jpg)
@@ -28,3 +33,4 @@ but they can be download from this list of resource links:
   - [Palafolls](https://stpumptrack.blob.core.windows.net/spots/images/palafolls.jpg)
   - [Sant Boi](https://stpumptrack.blob.core.windows.net/spots/images/santboi.jpg)
   - [vilamalla](https://stpumptrack.blob.core.windows.net/spots/images/vilamalla.jpg)
+  - [Pals](https://stpumptrack.blob.core.windows.net/spots/images/pals.jpg)
