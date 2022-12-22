@@ -6,31 +6,5 @@ Assets used on [pumptrack-map](https://github.com/lluisd/pumptrack-map).
 
 ## 360 VR videos and Images
 **360Videos** and **Images** are removed due Github LFS account limitation, 
-but they can be download from this list of resource links:
+but they can be download from here: [Download  media](https://drive.frostynas.duckdns.org/d/s/re4f1oehSCylIbb7kWJzsime3YRBZzSC/bG5qqzBye84c049SF2YAOIodpJia8Hwn-6rAAI4QJFAo)
 
-- 360Videos
-  - [Albons](https://stpumptrack.blob.core.windows.net/spots/360videos/albons.mp4)
-  - [Begur](https://stpumptrack.blob.core.windows.net/spots/360videos/begur.mp4)
-  - [Cassà de la selva](https://stpumptrack.blob.core.windows.net/spots/360videos/cassa.mp4)
-  - [Corçà](https://stpumptrack.blob.core.windows.net/spots/360videos/corca.mp4)
-  - [L'Escala](https://stpumptrack.blob.core.windows.net/spots/360videos/escala.mp4)
-  - [FrodenoFund (Salt)](https://stpumptrack.blob.core.windows.net/spots/360videos/frodenofund.mp4)
-  - [Palafolls](https://stpumptrack.blob.core.windows.net/spots/360videos/palafolls.mp4)
-  - [vilamalla](https://stpumptrack.blob.core.windows.net/spots/360videos/vilamalla.mp4)
-
-- 360images
-  - [Corçà](https://stpumptrack.blob.core.windows.net/spots/360images/albons.jpg)
-  - [FrodenoFund (Salt)](https://stpumptrack.blob.core.windows.net/spots/360images/begur.jpg)
-  - [Pals](https://stpumptrack.blob.core.windows.net/spots/360images/pals.jpg)
-
-- Images
-  - [Albons](https://stpumptrack.blob.core.windows.net/spots/images/albons.jpg)
-  - [Begur](https://stpumptrack.blob.core.windows.net/spots/images/begur.jpg)
-  - [Cassà de la selva](https://stpumptrack.blob.core.windows.net/spots/images/cassa.jpg)
-  - [Corçà](https://stpumptrack.blob.core.windows.net/spots/images/corca.jpg)
-  - [L'Escala](https://stpumptrack.blob.core.windows.net/spots/images/escala.jpg)
-  - [FrodenoFund (Salt)](https://stpumptrack.blob.core.windows.net/spots/images/frodenofund.jpg)
-  - [Palafolls](https://stpumptrack.blob.core.windows.net/spots/images/palafolls.jpg)
-  - [Sant Boi](https://stpumptrack.blob.core.windows.net/spots/images/santboi.jpg)
-  - [vilamalla](https://stpumptrack.blob.core.windows.net/spots/images/vilamalla.jpg)
-  - [Pals](https://stpumptrack.blob.core.windows.net/spots/images/pals.jpg)
