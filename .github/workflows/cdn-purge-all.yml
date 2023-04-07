@@ -1,4 +1,4 @@
-name: Azure cdn purge
+name: Azure cdn purge All
 
 on:
   workflow_dispatch:
