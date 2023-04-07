@@ -1,4 +1,4 @@
-name: Azure cdn purge
+name: Azure cdn purge 360 images
 
 on:
   workflow_dispatch:
