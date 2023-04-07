@@ -39,7 +39,11 @@
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/4anBd5F4iCGejhgv6",
     "province": "girona",
-    "video": "corca.mp4"
+    "video": "corca.mp4",
+    "panorama":  {
+      "image": "360corca.jpg",
+      "rotation": "0 270 0"
+    }
   },
   {
     "id": "vilamalla",
@@ -51,7 +55,15 @@
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/aWECw9wrDXRqgA2Y8",
     "province": "girona",
-    "video": "vilamalla.mp4"
+    "video": "vilamalla.mp4",
+    "panorama":  {
+      "image": "360vilamalla.jpg",
+      "rotation": "0 180 0"
+    },
+    "panorama":  {
+      "image": "360vilamalla.jpg",
+      "rotation": "0 180 0"
+    }
   },
   {
     "id": "cassa",
@@ -111,7 +123,11 @@
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/VWZS7UjEaU8D96KD9",
     "province": "girona",
-    "video": "pals.mp4"
+    "video": "pals.mp4",
+    "panorama":  {
+      "image": "360pals.jpg",
+      "rotation": "0 130 0"
+    }
   },
   {
     "id": "santboi",
