@@ -32,6 +32,6 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: 'lluisd',
               repo: 'pumptrack-map',
-              workflow_id: 'main_pumptrackmapapp.yml',
+              workflow_id: 'main_pumptrack-map-app.yml',
               ref: 'main'
             })
