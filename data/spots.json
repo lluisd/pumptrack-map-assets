@@ -75,7 +75,11 @@
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/rztaF3ENhneXDKLc9",
     "province": "girona",
-    "video": "cassa.mp4"
+    "video": "cassa.mp4",
+    "panorama":  {
+      "image": "360cassa.jpg",
+      "rotation": "0 90 0"
+    }
   },
   {
     "id": "palafolls",
