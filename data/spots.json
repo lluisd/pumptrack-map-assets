@@ -134,6 +134,18 @@
     }
   },
   {
+    "id": "empuriabrava",
+    "coordinates": [42.26248486365501, 3.105942334257108],
+    "name": "Pumptrack Empuriabrava",
+    "brand": "",
+    "color": "",
+    "status": "construction",
+    "hasOpeningHours": false,
+    "gmapsLink": "https://www.google.es/maps/dir/42.26248486,3.1059423",
+    "province": "girona",
+    "video": ""
+  },
+  {
     "id": "santboi",
     "coordinates": [41.33191701988174, 2.053920284386088],
     "name": "Pumptrack Sant boi",
