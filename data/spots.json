@@ -155,5 +155,16 @@
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/3MqNN6bAv59vocgNA",
     "province": "barcelona"
+  },
+  {
+    "id": "vilablareix",
+    "coordinates": [41.9505939975852, 2.802581048522165],
+    "name": "Pumptrack Vilablareix",
+    "brand": "pumptrackpark",
+    "color": "green ",
+    "status": "open",
+    "hasOpeningHours": false,
+    "gmapsLink": "https://www.google.es/maps/dir/41.9505939,2.80258104",
+    "province": "girona"
   }
 ]
