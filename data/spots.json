@@ -141,7 +141,7 @@
     "color": "",
     "status": "construction",
     "hasOpeningHours": false,
-    "gmapsLink": "https://www.google.es/maps/dir/42.26248486,3.1059423",
+    "gmapsLink": "https://www.google.es/maps/place/42.26248486365501,3.105942334257108",
     "province": "girona",
     "video": ""
   },
@@ -164,7 +164,40 @@
     "color": "green ",
     "status": "open",
     "hasOpeningHours": false,
-    "gmapsLink": "https://www.google.es/maps/dir/41.9505939,2.80258104",
+    "gmapsLink": "https://www.google.es/maps/place/41.9505939975852,2.802581048522165",
+    "province": "girona"
+  },
+  {
+    "id": "bordils",
+    "coordinates": [42.03819622275093, 2.909083524462537],
+    "name": "Pumptrack Bordils",
+    "brand": "pumptrackpark",
+    "color": "green ",
+    "status": "open",
+    "hasOpeningHours": false,
+    "gmapsLink": "https://goo.gl/maps/NXAmqpmSoqwwinwLA",
+    "province": "girona"
+  },
+  {
+    "id": "bordils",
+    "coordinates": [42.03819622275093, 2.909083524462537],
+    "name": "Pumptrack Bordils",
+    "brand": "pumptrackpark",
+    "color": "green ",
+    "status": "open",
+    "hasOpeningHours": false,
+    "gmapsLink": "https://goo.gl/maps/NXAmqpmSoqwwinwLA",
+    "province": "girona"
+  },
+  {
+    "id": "sils",
+    "coordinates": [41.81804395197975, 2.738780920645998],
+    "name": "Pumptrack Sils",
+    "brand": "pumptrackpark",
+    "color": "green ",
+    "status": "construction",
+    "hasOpeningHours": false,
+    "gmapsLink": "http://www.google.com/maps/place/41.81804395197975,2.738780920645998",
     "province": "girona"
   }
 ]
