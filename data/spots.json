@@ -10,7 +10,11 @@
     "hasOpeningHours": true,
     "gmapsLink": "https://goo.gl/maps/Pr64dGiVNUSK8EDV8",
     "province": "girona",
-    "video": "escala.mp4"
+    "video": "escala.mp4",
+    "panorama":  {
+      "image": "360escala.jpg",
+      "rotation": "0 90 0"
+    }
   },
   {
     "id": "frodenofund",
@@ -103,7 +107,11 @@
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/TufoX3GsRJrs239a6",
     "province": "girona",
-    "video": "albons.mp4"
+    "video": "albons.mp4",
+    "panorama":  {
+      "image": "360albons.jpg",
+      "rotation": "0 0 0"
+    }
   },
   {
     "id": "begur",
