@@ -63,10 +63,6 @@
     "panorama":  {
       "image": "360vilamalla.jpg",
       "rotation": "0 180 0"
-    },
-    "panorama":  {
-      "image": "360vilamalla.jpg",
-      "rotation": "0 180 0"
     }
   },
   {
@@ -173,7 +169,11 @@
     "status": "open",
     "hasOpeningHours": false,
     "gmapsLink": "https://www.google.es/maps/place/41.9505939975852,2.802581048522165",
-    "province": "girona"
+    "province": "girona",
+    "panorama":  {
+      "image": "360vilablareix.jpg",
+      "rotation": "0 90 0"
+    }
   },
   {
     "id": "bordils",
