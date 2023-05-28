@@ -184,7 +184,8 @@
     "status": "open",
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/NXAmqpmSoqwwinwLA",
-    "province": "girona"
+    "province": "girona",
+    "video": "bordils.mp4"
   },
   {
     "id": "bordils",
