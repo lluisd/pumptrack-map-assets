@@ -63,10 +63,6 @@
     "panorama":  {
       "image": "360vilamalla.jpg",
       "rotation": "0 180 0"
-    },
-    "panorama":  {
-      "image": "360vilamalla.jpg",
-      "rotation": "0 180 0"
     }
   },
   {
@@ -173,7 +169,11 @@
     "status": "open",
     "hasOpeningHours": false,
     "gmapsLink": "https://www.google.es/maps/place/41.9505939975852,2.802581048522165",
-    "province": "girona"
+    "province": "girona",
+    "panorama":  {
+      "image": "360vilablareix.jpg",
+      "rotation": "0 90 0"
+    }
   },
   {
     "id": "bordils",
@@ -184,7 +184,8 @@
     "status": "open",
     "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/NXAmqpmSoqwwinwLA",
-    "province": "girona"
+    "province": "girona",
+    "video": "bordils.mp4"
   },
   {
     "id": "bordils",
@@ -202,8 +203,8 @@
     "coordinates": [41.81804395197975, 2.738780920645998],
     "name": "Pumptrack Sils",
     "brand": "pumptrackpark",
-    "color": "green ",
-    "status": "construction",
+    "color": "white ",
+    "status": "open",
     "hasOpeningHours": false,
     "gmapsLink": "http://www.google.com/maps/place/41.81804395197975,2.738780920645998",
     "province": "girona"
