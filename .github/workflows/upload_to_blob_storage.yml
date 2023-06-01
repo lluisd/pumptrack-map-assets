@@ -2,7 +2,9 @@ name: Blob storage assets CI
 
 on:
     push:
-        branches: [ main ]
+      paths-ignore:
+        - '**.md'
+      branches: [ main ]
     workflow_dispatch:
 
 jobs:
