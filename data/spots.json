@@ -188,17 +188,6 @@
     "video": "bordils.mp4"
   },
   {
-    "id": "bordils",
-    "coordinates": [42.03819622275093, 2.909083524462537],
-    "name": "Pumptrack Bordils",
-    "brand": "pumptrackpark",
-    "color": "green ",
-    "status": "open",
-    "hasOpeningHours": false,
-    "gmapsLink": "https://goo.gl/maps/NXAmqpmSoqwwinwLA",
-    "province": "girona"
-  },
-  {
     "id": "sils",
     "coordinates": [41.81804395197975, 2.738780920645998],
     "name": "Pumptrack Sils",
