@@ -197,5 +197,16 @@
     "hasOpeningHours": false,
     "gmapsLink": "http://www.google.com/maps/place/41.81804395197975,2.738780920645998",
     "province": "girona"
+  },
+  {
+    "id": "santperepescador",
+    "coordinates": [42.153962051397684, 3.110587218276746],
+    "name": "Pumptrack Sant Pere Pescador",
+    "brand": "pumptrackpark",
+    "color": "white ",
+    "status": "private",
+    "hasOpeningHours": true,
+    "gmapsLink": "https://goo.gl/maps/ngGFseefoY79Fer49",
+    "province": "girona"
   }
 ]
