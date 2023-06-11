@@ -205,7 +205,7 @@
     "brand": "pumptrackpark",
     "color": "white ",
     "status": "private",
-    "hasOpeningHours": true,
+    "hasOpeningHours": false,
     "gmapsLink": "https://goo.gl/maps/ngGFseefoY79Fer49",
     "province": "girona"
   }
