@@ -172,7 +172,7 @@
     "province": "girona",
     "panorama":  {
       "image": "360vilablareix.jpg",
-      "rotation": "0 90 0"
+      "rotation": "0 0 0"
     }
   },
   {
@@ -196,7 +196,11 @@
     "status": "open",
     "hasOpeningHours": false,
     "gmapsLink": "http://www.google.com/maps/place/41.81804395197975,2.738780920645998",
-    "province": "girona"
+    "province": "girona",
+    "panorama":  {
+      "image": "360sils.jpg",
+      "rotation": "0 0 0"
+    }
   },
   {
     "id": "santperepescador",
