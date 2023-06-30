@@ -172,7 +172,7 @@
     "province": "girona",
     "panorama":  {
       "image": "360vilablareix.jpg",
-      "rotation": "0 0 0"
+      "rotation": "0 -90 0"
     }
   },
   {
@@ -199,7 +199,7 @@
     "province": "girona",
     "panorama":  {
       "image": "360sils.jpg",
-      "rotation": "0 0 0"
+      "rotation": "0 80 0"
     }
   },
   {
