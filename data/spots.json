@@ -170,6 +170,7 @@
     "hasOpeningHours": false,
     "gmapsLink": "https://www.google.es/maps/place/41.9505939975852,2.802581048522165",
     "province": "girona",
+    "video": "vilablareix.mp4",
     "panorama":  {
       "image": "360vilablareix.jpg",
       "rotation": "0 -90 0"
