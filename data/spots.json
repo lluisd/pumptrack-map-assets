@@ -198,6 +198,7 @@
     "hasOpeningHours": false,
     "gmapsLink": "http://www.google.com/maps/place/41.81804395197975,2.738780920645998",
     "province": "girona",
+    "video": "sils.mp4",
     "panorama":  {
       "image": "360sils.jpg",
       "rotation": "0 80 0"
