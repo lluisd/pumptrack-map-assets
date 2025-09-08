@@ -16,7 +16,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v5
 #      with:
 #        lfs: true
 
@@ -31,11 +31,11 @@ jobs:
       uses: azure/CLI@v1
       with:
         inlineScript: |
-            az storage blob upload-batch --account-name pumpdata  --auth-mode key -d 'spots' -s . --pattern *.json --content-type="application/json" --overwrite=true;
-#            az storage blob upload-batch --account-name pumpdata  --auth-mode key -d 'spots' -s . --pattern *.jpg --content-type="image/jpeg";
-#            az storage blob upload-batch --account-name pumpdata  --auth-mode key -d 'spots' -s . --pattern *.mp4 --content-type="video/mp4";
+            az storage blob upload-batch --account-name pumpdata --auth-mode login -d 'spots' -s . --pattern *.json --content-type="application/json" --overwrite=true;
+#            az storage blob upload-batch --account-name pumpdata --auth-mode login -d 'spots' -s . --pattern *.jpg --content-type="image/jpeg";
+#            az storage blob upload-batch --account-name pumpdata --auth-mode login -d 'spots' -s . --pattern *.mp4 --content-type="video/mp4";
     - name: Purge CDN endpoint
-      uses: azure/CLI@v1
+      uses: azure/CLI@v2
       with:
         inlineScript: |
            az cdn endpoint purge --content-paths  "/spots/*" --profile-name "cdn" --name "pump" --resource-group "pump"
@@ -47,7 +47,7 @@ jobs:
       if: always()
 
     - name: Dispatch pumptrack-map worfklow
-      uses: actions/github-script@v6
+      uses: actions/github-script@v8
       with:
         github-token: ${{ secrets.PAT_TOKEN }}
         script: |
