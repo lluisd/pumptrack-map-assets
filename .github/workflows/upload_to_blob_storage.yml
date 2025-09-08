@@ -7,6 +7,11 @@ on:
       branches: [ main ]
     workflow_dispatch:
 
+permissions:
+  id-token: write
+  contents: read
+
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -34,7 +39,7 @@ jobs:
       with:
         inlineScript: |
            az cdn endpoint purge --content-paths  "/spots/*" --profile-name "cdn" --name "pump" --resource-group "pump"
-           
+
     # Azure logout
     - name: logout
       run: |
