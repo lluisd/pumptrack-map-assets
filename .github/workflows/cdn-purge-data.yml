@@ -7,16 +7,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: login
-        uses: azure/login@v1
+      - name: Azure login
+        uses: azure/login@v2
         with:
-          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
 
       - name: Purge CDN endpoint
-        uses: azure/CLI@v1
+        uses: azure/CLI@v2
         with:
           inlineScript: |
-            az cdn endpoint purge --content-paths  "/spots/data/*" --profile-name "cdn" --name "pumptrack" --resource-group "pumptrack-assets"
+            az cdn endpoint purge --content-paths  "/spots/data/*" --profile-name "cdn" --name "pump" --resource-group "pump"
 
       # Azure logout
       - name: logout
@@ -25,7 +27,7 @@ jobs:
         if: always()
 
       - name: Dispatch pumptrack-map worfklow
-        uses: actions/github-script@v6
+        uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.PAT_TOKEN }}
           script: |
